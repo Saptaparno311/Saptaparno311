@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to **collaborate on with teams having interest in Technologies.**
 
-- 👨‍💻 All of my projects are available at [https://saptaparno311.github.io/portfolio.github.io/](https://saptaparno311.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/Saptaparno311?tab=repositories](https://github.com/Saptaparno311?tab=repositories)]
 
 - 💬 Ask me about **Cybersecurity, Web Development,Networking**
 
