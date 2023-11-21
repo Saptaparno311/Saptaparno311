@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saptaparno311.github.io/portfolio.github.io/](https://saptaparno311.github.io/portfolio.github.io/)
 
-- 💬 Ask me about **Cybersecurity,Web Development,Networking**
+- 💬 Ask me about **Cybersecurity,IOT,LINUX,Web Development,Networking**
 
 - 📫 How to reach me **saptaparno94@gmail.com**
 
@@ -29,3 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptaparno311&show_icons=true&locale=en" alt="saptaparno311" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptaparno311&" alt="saptaparno311" /></p>
+
+<br><br><br><br><br><br><br><br>
+
+</div>
+
+<br></br>
+### Contribution Graph
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saptaparno311&theme=github-compact)
