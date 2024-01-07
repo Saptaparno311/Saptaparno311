@@ -28,15 +28,22 @@
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,figma,js,html,css,react,nodejs,linux,mysql,sqlite,vscode,autocad,figma,ai,babel,bootstrap,firebase,)](https://skillicons.dev)
 
-<br><br>
-<!-- Statistics -->
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Saptaparno311&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="400px"  />
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptaparno311&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" width="320px" />
-</p>
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<br><br><br><br><br><br><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptaparno311&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saptaparno311&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saptaparno311&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br/>  
 
 
 ### Contribution Graph
